@@ -24,4 +24,4 @@
 - 画像認識は、yolo11s のcoreML Package を使用しています。そのためネットワーク接続は必要なくデバイスのみで認識可能です。
 - iPhone15Pro Max , iOS 18.5以上で動作確認しています。
 
-![サンプル画像](https://github.com/ToroSimeSaba/myEye2/blob/main/SignalView/Preview/signal.png?raw=true)
+![サンプル画像](https://github.com/ToroSimeSaba/SignalView/blob/main/SignalView/Preview/signal.png?raw=true)
